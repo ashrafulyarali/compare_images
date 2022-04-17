@@ -1,1 +1,2 @@
-# compare_images
+using python compare two images
+with same size.
